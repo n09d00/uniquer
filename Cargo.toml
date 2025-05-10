@@ -1,0 +1,13 @@
+[package]
+name = "uniquer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+regex = "1.11.1"
+walkdir = "2.5.0"
+
+[[bin]]
+name = "uniquer"
+path = "src/main.rs"
