@@ -1,1 +1,3 @@
-Simple CLI tool for keeping your files clean.
+# Simple CLI tool for keeping your files clean.
+
+## Installation
